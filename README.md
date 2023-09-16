@@ -1,5 +1,5 @@
 <p align="left"> <a href="https://www.facebook.com/faisalahmmedapon" target="blank">
-<img src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/271654336_1075058576620120_4287395965027595800_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeF82SHVLu9a8ZgnqEVGYul5FnenkfVQH10Wd6eR9VAfXVo6H8X_LcxYg4nC_dQyY56A268grYDu8OQhA13l2WO-&_nc_ohc=1CQgTrbT_hkAX_ukDGC&_nc_ht=scontent.fdac24-2.fna&oh=00_AfDYaMeHCG_ey3xTNd5pluU4EjqdSMkYMqhnS4feIeO6OQ&oe=6509C085" alt="faisalahmmedapon" />
+<img width="100%" height="400px" src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/271654336_1075058576620120_4287395965027595800_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeF82SHVLu9a8ZgnqEVGYul5FnenkfVQH10Wd6eR9VAfXVo6H8X_LcxYg4nC_dQyY56A268grYDu8OQhA13l2WO-&_nc_ohc=1CQgTrbT_hkAX_ukDGC&_nc_ht=scontent.fdac24-2.fna&oh=00_AfDYaMeHCG_ey3xTNd5pluU4EjqdSMkYMqhnS4feIeO6OQ&oe=6509C085" alt="faisalahmmedapon" />
 </a> </p>
 
 
@@ -14,30 +14,6 @@ I'm Faisal Ahmmed Apon, a Full Stack Web Application Developer from Bangladesh a
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/faisalahmmedapo) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developerfaisal32@gmail.com)
 
-
-#### Things I code with
-
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) 
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) 
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) 
-[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) 
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Git Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-
-### Tutorials
-
-[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.youtube.com/@faisalahmmedapon) 
-[![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://www.youtube.com/@faisalahmmedapon) 
-[![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.youtube.com/@faisalahmmedapon) 
-[![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.youtube.com/@faisalahmmedapon) 
-[![Tailwind Playlist](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](https://www.youtube.com/@faisalahmmedapon)
 
 #### Business
 
