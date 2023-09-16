@@ -1,8 +1,7 @@
 ![Github Banner](assets/github-banner.jpg)
 
-## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm Sumit, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/learnwithsumit). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Faisal Ahmmed Apon, a Full Stack Web Application Developer from Bangladesh and Content Creator on YouTube. I Spend most of time coding outstanding projects or recording tutorials.
 
 :coffee: &emsp;Connect with me!
 
