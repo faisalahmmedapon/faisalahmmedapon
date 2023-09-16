@@ -6,17 +6,6 @@
 
 [![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]([https://lwsbd.link/react](https://www.youtube.com/@faisalahmmedapon/)) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]([https://lwsbd.link/node](https://www.youtube.com/@faisalahmmedapon)) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]([https://lwsbd.link/ts](https://www.youtube.com/@faisalahmmedapon)) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]([https://lwsbd.link/startjs](https://www.youtube.com/@faisalahmmedapon/)) [![Tailwind Playlist](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)]([https://lwsbd.link/tp](https://www.youtube.com/@faisalahmmedapon/))
 
-
-### ðŸ“º &emsp;Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [à¦•à§‹à¦¡ à¦¦à§‡à¦–à¦²à§‡ à¦¬à§à¦à¦¿ à¦•à¦¿à¦¨à§à¦¤à§ à¦•à¦°à¦¤à§‡ à¦¦à¦¿à¦²à§‡ à¦ªà¦¾à¦°à¦¿à¦¨à¦¾ - Why most programmers fail](https://www.youtube.com/watch?v=HbEl_NHeHiU)
-- [Is javascript single threaded? - Web Workers API explained](https://www.youtube.com/watch?v=hhGB2fH7_XQ)
-- [Intersection Observer API in JavaScript | Web Development Tutorial](https://www.youtube.com/watch?v=D1XeL4HF8lI)
-- [à¦¯à§‡ à¦•à¦¾à¦°à¦£à§‡ à¦•à§‹à¦¨à¦¦à¦¿à¦¨ à¦†à¦ªà¦¨à¦¿ à¦œà¦¾à¦­à¦¾à¦¸à§à¦•à§à¦°à¦¿à¦ªà§à¦Ÿ à¦¶à¦¿à¦–à¦¤à§‡ à¦ªà¦¾à¦°à¦¬à§‡à¦¨ à¦¨à¦¾ - Weird JavaScript - Funny Video](https://www.youtube.com/watch?v=7tfh5K1PN7c)
-- [JaduPc Pro - Initial Reaction by Learn with Sumit](https://www.youtube.com/watch?v=SPgeDbl2KRo)
-<!-- YOUTUBE:END -->
-
 #### Business
 
 :email: &emsp;sayhitorainmaker@gmail.com
