@@ -4,7 +4,7 @@
 
 ### Tutorials
 
-[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]([(https://www.youtube.com/@faisalahmmedapon/)]) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]([https://lwsbd.link/node](https://www.youtube.com/@faisalahmmedapon)) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]([https://lwsbd.link/ts](https://www.youtube.com/@faisalahmmedapon)) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]([https://lwsbd.link/startjs](https://www.youtube.com/@faisalahmmedapon/)) [![Tailwind Playlist](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)]([https://lwsbd.link/tp](https://www.youtube.com/@faisalahmmedapon/))
+[(https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
 
 #### Business
 
