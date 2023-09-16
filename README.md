@@ -6,54 +6,6 @@
 
 [![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://lwsbd.link/ts) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/startjs) [![Tailwind Playlist](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](https://lwsbd.link/tp)
 
-### My Projects & Ventures
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Description</b></td>
-      <td><b>Responses</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://learnwithsumit.com" target="_blank">Learn with Sumit</a></td>
-      <td>Programming related Learning Platform for Bangladesh</td>
-      <td>100K+ active learners</td>
-    </tr>
-    <tr>
-      <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
-      <td>Visual Studio Code Editor Theme</td>
-      <td>15K+ installs</td>
-    </tr>
-    <tr>
-      <td>Listenyzen</td>
-      <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>
-      <td>65+ clients</td>
-    </tr>
-    <tr>
-      <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>
-      <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
-      <td>120+ clients</td>
-    </tr>
-    <tr>
-      <td>Prism</td>
-      <td>Complete Sales Automation & ERP Enterprise Solution for British American Tobacco Bangladesh</td>
-      <td>2.5k+ Distributors Nationwide</td>
-    </tr>
-    <tr>
-      <td>Unilever MARS</td>
-      <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>
-      <td>20 million+ Consumer Data Managed Already</td>
-    </tr>
-    <tr>
-      <td>Microzen</td>
-      <td>Microcredit Automation System with AI based Decision Support System</td>
-      <td>10 million+ Consumer Financial Data Managed Already</td>
-    </tr>
-  </tbody>
-</table>
 
 ### ðŸ“º &emsp;Latest YouTube Videos
 
