@@ -8,11 +8,9 @@
 
 #### Business
 
-:email: &emsp;sayhitorainmaker@gmail.com
+:email: &emsp;developerfaisal32@gmail.com
 <br >
-:email: &emsp;sumit@learnwithsumit.com
-<br >
-:email: &emsp;sumit@analyzenbd.com
+
 
 
 ### Hi there 👋, Faisal Ahmmed Apon
