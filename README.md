@@ -1,4 +1,6 @@
-![Github Banner]([assets/github-banner.jpg](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/357740797_224063697121842_6023524084708026672_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=52f669&_nc_ohc=TpwMQG5jEUIAX_zKtiV&_nc_ht=scontent.fdac24-2.fna&oh=00_AfCxSAULbjOlj7QJcJqOPr3ffY0t-1-TgOvBuJqh27xH_g&oe=650A133E))
+<p align="left"> <a href="https://www.facebook.com/faisalahmmedapon" target="blank">
+<img src="[https://img.shields.io/twitter/follow/shovoalways?logo=twitter&style=for-the-badge](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/357740797_224063697121842_6023524084708026672_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=52f669&_nc_ohc=TpwMQG5jEUIAX_zKtiV&_nc_ht=scontent.fdac24-2.fna&oh=00_AfCxSAULbjOlj7QJcJqOPr3ffY0t-1-TgOvBuJqh27xH_g&oe=650A133E)" alt="shovoalways" />
+</a> </p>
 
 
 I'm Faisal Ahmmed Apon, a Full Stack Web Application Developer from Bangladesh and Content Creator on YouTube. I Spend most of time coding outstanding projects or recording tutorials.
